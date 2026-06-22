@@ -4,9 +4,9 @@ Este projeto é uma Pokédex interativa desenvolvida com HTML, CSS e JavaScript.
 
 ## 🔧Tecnologias Utilizadas
 
-- **HTML5:** Estruturação da página web
-- **CSS3:** Estilização e design responsivo
-- **JavaScript:** Implementação de funcionalidades interativas
+- **HTML5:** Estruturação da página web.
+- **CSS3:** Estilização e design responsivo.
+- **JavaScript:** Implementação de funcionalidades interativas.
 
 ## ⚙️Funcionalidades Principais
 
